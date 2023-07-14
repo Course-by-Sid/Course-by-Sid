@@ -1,5 +1,6 @@
 <h1 align="center" >Hi 👋, Welcome to 
   <a href="https://www.youtube.com/@CoursebySid" target="_blank" >
+    <a href="https://www.youtube.com/@CoursebySid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@CoursebySid" height="30" width="40" /></a>
     Course by Sid 
   </a> Github Profile 🌐
 </h1>
