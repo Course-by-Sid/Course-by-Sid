@@ -1,7 +1,7 @@
 <h1 align="center" >Hi 👋, Welcome to 
   <a href="https://www.youtube.com/@CoursebySid" target="_blank" >
     Course by Sid 
-  </a> Youtube Channel 🌐
+  </a> Github Profile 🌐
 </h1>
 
 <h3 align="center">👨‍🎓 Teaching & Learning New Skills 🖥 </h3>
