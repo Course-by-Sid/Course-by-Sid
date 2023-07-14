@@ -7,8 +7,8 @@
 <h3 align="center">👨‍🎓 Teaching & Learning New Skills 🖥 </h3>
 
 <p align="center">
-<a href="https://stackoverflow.com/users/22043017/rehbar-ahmad-siddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://stackoverflow.com" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@CoursebySid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@CoursebySid" height="30" width="40" /></a>
+<a href="https://instagram.com/coursebysid?igshid=MzNlNGNkZWQ4Mg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/coursebysid?igshid=MzNlNGNkZWQ4Mg==" height="30" width="40" /></a>
 </p>
 
 ```
@@ -17,7 +17,7 @@ coursebysid@makeinwebtech.com
 
 <details>
 
-<summary> Click here to know more About Me  :tada:</summary>
+<summary> Click here to know more about my youtube channel  :tada:</summary>
 
 ### 🖥𝐌𝐄𝐑𝐍 - 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 𝐁𝐚𝐜𝐤𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 |🖥
  
@@ -27,39 +27,23 @@ coursebysid@makeinwebtech.com
 
 <details>
 
-<summary> Click here to view my Education & Certification  :tada:</summary>
+<summary> Click here to view my Upcoming Videos  :tada:</summary>
 
 ### Education & Certification
 
-| Year | Education & Certification | Percentage/ Certification |
+| Date | Subject | Topic |
 | :---         |     :---:      |          ---: | 
-| 2022-2023    | MERN Full Stack Development     |  Certification   |
-| 2014-2018    | B.Tech (Mechanical Engineering) |      |
-|  2013        | Intermediate                    |       |
-|  2011        | High School                    |     |
+| 2023    | HTML, CSS & JavaScript     |  Calculator Application   |
+|  2023   |  |      |
+|  2023        |                     |       |
+|  2023       |                    |     |
 
 </details>
 
 <h2>💫 Websites and Applications Created 💫</h2>
 <p align="left">
   <a href="#" target="_blank" >
-    👉 Full Stack MERN - Expense Management Application - Click here to view 🚀
-  </a>
-  <br/>
-  <a href="#" target="_blank" >
-    👉 React Resume Building Application - Click here to view 🚀 
-  </a>
-  <br/>
-  <a href="#" target="_blank" >
-    👉 HTML, CSS & Javascript - Quiz Application - Click here to view 🚀
-  </a>
-  <br/>
-  <a href="#" target="_blank" >
     👉 HTML, CSS & Javascript - Calculator Application - Click here to view 🚀
-  </a>
-  <br/>
-  <a href="#" target="_blank" >
-    👉 HTML, CSS & Javascript- Portfolio Resume - Click here to view 🚀
   </a>
   <br/>
 </p>
