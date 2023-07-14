@@ -46,7 +46,7 @@ https://www.youtube.com/@CoursebySid
 
 <h2>💫 Websites and Applications Created 💫</h2>
 <p align="left">
-  <a href="#" target="_blank" >
+  <a href="https://course-by-sid.github.io/calc-app/" target="_blank" >
     👉 HTML, CSS & Javascript - Calculator Application - Click here to view 🚀
   </a>
   <br/>
