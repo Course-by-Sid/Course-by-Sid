@@ -30,7 +30,7 @@ https://www.youtube.com/@CoursebySid
 
 <summary> Click here to view my Upcoming Videos  :tada:</summary>
 
-### Education & Certification
+### Upcoming Videos on Youtube
 
 | Date | Subject | Topic |
 | :---         |     :---:      |          ---: | 
