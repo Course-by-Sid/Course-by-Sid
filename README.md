@@ -4,7 +4,7 @@
   </a> Github Profile 🌐
 </h1>
 
-<h3 align="center">👨‍🎓 Teaching & Learning New Skills 🖥 </h3>
+<h3 align="center">👨‍🎓 COURSE BY SID is a youtube channel that aims to design & teach courses related to topics like Mechanical Engineering , Software Engineering ( Website Development & Full Stack Development ), Mathematics, Physics & Computer Science. 🖥 </h3>
 
 <p align="center">
 <a href="https://www.youtube.com/@CoursebySid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@CoursebySid" height="30" width="40" /></a>
