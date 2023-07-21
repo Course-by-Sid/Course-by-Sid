@@ -7,7 +7,7 @@
 
 <h3 align="center"> 
   <a href="https://www.youtube.com/@CoursebySid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@CoursebySid" height="30" width="40" /></a>
-  COURSE BY SID is a youtube channel that aims to design & teach courses related to topics like Mechanical Engineering , Software Engineering ( Website Development & Full Stack Development ), Mathematics, Physics & Computer Science. 🖥 </h3>
+  Welcome to Course by Sid (a Yotube Channel) , your ultimate destination for Full Stack Development ! Dive into HTML, CSS, and JavaScript fundamentals, then level up with advanced topics like React, Node.js, Express, MongoDB, and the entire MERN stack. Explore exciting projects and unleash your creativity. Join us on this coding journey and build a powerful skill set in web development!   Subscribe now for the latest updates. 🖥 </h3>
 
 <p align="center">
 <a href="https://www.youtube.com/@CoursebySid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@CoursebySid" height="30" width="40" /></a>
