@@ -38,7 +38,7 @@ https://www.youtube.com/@CoursebySid
 | Date | Subject | Topic |
 | :---         |     :---:      |          ---: | 
 | 2023    | HTML, CSS & JavaScript     |  Calculator Application   |
-|  2023   |  |      |
+|  2023   | HTML, CSS & JavaScript     |  Weather Application   |
 |  2023        |                     |       |
 |  2023       |                    |     |
 
