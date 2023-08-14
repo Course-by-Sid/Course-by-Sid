@@ -2,8 +2,7 @@
     <a href="https://www.youtube.com/@CoursebySid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@CoursebySid" height="30" width="40" /></a>
     <a href="https://www.youtube.com/@CoursebySid" target="_blank" >
     Course by Sid 
-  </a> 
-    </a>
+  </a> and 
     <a href="https://youtube.com/@TechEngineerRehbar" target="_blank" >
     Tech Engineer Rehbar 
   </a> Github Profile 🌐
