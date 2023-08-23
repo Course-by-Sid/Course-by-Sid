@@ -62,7 +62,7 @@ https://www.youtube.com/@TechEngineerRehbar
   </a>
   <br/>
     <a href="https://course-by-sid.github.io/Indian-Flag/" target="_blank" >
-    👉 HTML & CSS- Indian Flag- Happy Republic Day - Click here to view 🚀
+    👉 HTML & CSS- Indian Flag- Happy Independence Day - Click here to view 🚀
   </a>
   <br/>
     <a href="https://course-by-sid.github.io/login-register-form/" target="_blank" >
