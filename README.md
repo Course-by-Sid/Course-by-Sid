@@ -46,8 +46,8 @@ https://www.youtube.com/@TechEngineerRehbar
 | :---         |     :---:      |          ---: | 
 | 2023    | HTML, CSS & JavaScript     |  Calculator Application   |
 |  2023   | HTML, CSS & JavaScript     |  Weather Application   |
-|  2023        |                     |       |
-|  2023       |                    |     |
+|  2023   | HTML & CSS                 |  One Pager Responsive Website     |
+|  2023   | HTML, CSS & JavaScript     |   Analog & Digital Clock  |
 
 </details>
 
@@ -71,6 +71,10 @@ https://www.youtube.com/@TechEngineerRehbar
     <br/>
     <a href="https://course-by-sid.github.io/OnePagerWebsite/" target="_blank" >
     👉 HTML & CSS- One Pager Business Website ( Responsive )- Click here to view 🚀
+  </a>
+    <br/>
+    <a href="https://course-by-sid.github.io/Analog-DigitalClock/" target="_blank" >
+    👉 HTML, CSS & JS- Analog Clock & Digital Clock- Click here to view 🚀
   </a>
     <br/>
 </p>
