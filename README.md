@@ -3,8 +3,8 @@
     <a href="https://www.youtube.com/@CoursebySid" target="_blank" >
     Course by Sid 
   </a> and 
-    <a href="https://youtube.com/@TechEngineerRehbar" target="_blank" >
-    Tech Engineer Rehbar 
+    <a href="https://youtube.com/@EngineerRehbarSid" target="_blank" >
+    Engineer Rehbar Sid 
   </a> Github Profile 🌐
 </h1>
 
