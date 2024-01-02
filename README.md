@@ -83,7 +83,7 @@ https://www.youtube.com/@EngineerRehbarSid
   </a>
     <br/>
     <a href="https://course-by-sid.github.io/countdownTimer/" target="_blank" >
-    👉 HTML, CSS & JS- TODO LIST- Click here to view 🚀
+    👉 HTML, CSS & JS- COUNTDOWN TIMER- Click here to view 🚀
   </a>
     <br/>
 </p>
